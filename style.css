@@ -4,9 +4,14 @@ p {
 
 h1 {
 	font-family: "Courier";
-	color: orange;
+	color: darkmagenta;
 }
 
 body {
 	background-color: lightgreen;
+}
+
+table, th ,td {
+	border: 1px solid blue;
+	border-radius: 6px;
 }
