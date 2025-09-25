@@ -1,9 +1,11 @@
 p {
 	font-family: "Courier";
+	font-size: 18px;
+	font-weight: bold;
 }
 
 h1 {
-	font-family: "Courier";
+	font-family: "Ubuntu Mono";
 	color: darkmagenta;
 }
 
@@ -14,4 +16,6 @@ body {
 table, th ,td {
 	border: 1px solid blue;
 	border-radius: 6px;
+	font-size: 24px;
+	font-family: monospace;
 }
