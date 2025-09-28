@@ -26,3 +26,8 @@ table, th ,td {
 body {
 	text-align: center;
 }
+
+hr {
+	border: 10px solid orange;
+	border-radius: 5px;
+}
